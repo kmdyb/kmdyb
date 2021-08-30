@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @kmdyb. The name's Kamil.
+- 👋 Hi, I’m @kmdyb. My name's Kamil.
 - 👀 I’m interested in popular science.
 - 🌱 I’m currently learning python.
 - 💞️ I’m looking to collaborate on projects related to transportation and logistics.
