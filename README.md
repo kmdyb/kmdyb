@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @kmdyb. My name's Kamil.
-- 👀 I’m interested in popular science.
 - 🌱 I’m currently learning python.
-- 💞️ I’m looking to collaborate on projects related to transportation and logistics.
+- 💞️ I’m interested in transportation and logistics.
 - 📫 You can reach me at email kamil.dybala@gmail.com
 
 <!---
