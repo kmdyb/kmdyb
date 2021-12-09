@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @kmdyb. My name's Kamil.
-- 🌱 I’m currently learning Python and Google Cloud.
+- 🌱 I’m currently learning Python.
 - 💞️ I’m interested in transportation and logistics.
 - 📫 You can reach me at email kamil.dybala@gmail.com
 
